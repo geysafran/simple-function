@@ -1,0 +1,16 @@
+div {
+  display: flex;
+  justify-content: center;
+
+}
+
+.botao {
+  font-size: 3em;
+  width: 39vw;
+  height: 20vh;
+  border-radius: 10px;
+  background-color: brown;
+  color: aliceblue;
+  font-weight: 800;
+
+}
